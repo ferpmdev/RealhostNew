@@ -11,5 +11,6 @@ La idea como un juego en donde se les muestra a los usuarios los pricipales cand
 ## Get start
 
 1. Clonar repositorio
-2. Ejecutar yarn install
-3. Ejecutar yarn dev para correr en desarrollo
+2. cd RealhostNew
+3. Ejecutar yarn install
+4. Ejecutar yarn dev para correr en desarrollo
