@@ -27,10 +27,10 @@ const Counter = (props) => {
       <h4 className="h4-votes"> {name} </h4>
       <h3 className="h3-votes"> {`votos: ${votes}`} </h3>
       <button className="btn" onClick={handleIncrement}>
-        -
+        +
       </button>
       <button className="btn" onClick={handleDecrement}>
-        +
+        -
       </button>
     </div>
   );
